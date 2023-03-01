@@ -1,6 +1,8 @@
 # Synesthetic-AI
 ![image](https://user-images.githubusercontent.com/72469894/222024195-7a226596-71be-4fee-9648-aa1cbd47be7a.png)
 
+![image](https://user-images.githubusercontent.com/72469894/222034715-2e93b105-e54c-4175-8653-9cc610f0a7c0.png)
+(Image from the article: https://www.frontiersin.org/articles/10.3389/fnins.2018.00777/full, to represent a 2D-CNN)
 
 The aim of this project is to apply 2D convolution neural networks (CNNs) to visually perform speaker recognition.
 The CNNs are applied to "see" audios representations generated from the original audios by an algorithm. 
